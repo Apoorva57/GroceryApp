@@ -1,3 +1,10 @@
+# SPSGP-61306-Virtual-Internship---Android-Application-Development-Using-Kotlin
+https://github.com/smartinternz02/SPSGP-61306-Virtual-Internship---Android-Application-Development-Using-Kotlin
+<br>
+Virtual Internship - Android Application Development Using Kotlin
+<br>
+Name: Apoorva Singh <br>
+SBID:	SB20220208921
 <h1 align="center"> Grocery App Project </h1> <br>
 <p align="center">
   <a>
